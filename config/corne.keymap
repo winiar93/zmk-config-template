@@ -33,7 +33,7 @@
         /* Layer 2 - Symbols */
 
         sym_layer {
-    bindings = 
+    bindings = <
 &kp TAB    &kp EXCL   &kp AT        &kp HASH      &kp DLLR    &kp PRCNT    &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp DEL
 &kp LSHFT  &kp PSCRN  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_MUTE  &none        &kp MINUS  &kp EQUAL  &kp LBKT   &kp RBKT  &kp BSLH  &kp GRAVE
 &kp LCTRL  &kp HOME   &kp PG_DN     &kp PG_UP     &kp END     &none        &kp UNDER  &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp TILDE
